@@ -33,6 +33,12 @@ npm install
 npm run dev
 ```
 
+## Netlify
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- SPA routing is configured in `netlify.toml`
+
 ## Reset Demo Data
 
 Use the `Reset Demo Data` button on the landing page to restore default demo users and clear active sessions.
